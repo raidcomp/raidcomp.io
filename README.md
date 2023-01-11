@@ -1,16 +1,5 @@
 # raidcomp.io
 
-![Death Knight Icon](/public/classes/death-knight/icon.png)
-![Druid Icon](/public/classes/druid/icon.png)
-![Hunter Icon](/public/classes/hunter/icon.png)
-![Mage Icon](/public/classes/mage/icon.png)
-![Paladin Icon](/public/classes/paladin/icon.png)
-![Priest Icon](/public/classes/priest/icon.png)
-![Rogue Icon](/public/classes/rogue/icon.png)
-![Shaman Icon](/public/classes/shaman/icon.png)
-![Warlock Icon](/public/classes/warlock/icon.png)
-![Warrior Icon](/public/classes/warrior/icon.png)
-
 ## [>> Current demo website without backend integration <<](http://www.raidcomp.io.s3-website-us-east-1.amazonaws.com/)
 
 # Getting Started with Create React App
