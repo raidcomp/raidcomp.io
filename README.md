@@ -11,8 +11,7 @@
 ![Warlock Icon](/public/classes/warlock/icon.png)
 ![Warrior Icon](/public/classes/warrior/icon.png)
 
-
-### [Current demo website](http://www.raidcomp.io.s3-website-us-east-1.amazonaws.com/)
+## [>> Current demo website without backend integration <<](http://www.raidcomp.io.s3-website-us-east-1.amazonaws.com/)
 
 # Getting Started with Create React App
 
